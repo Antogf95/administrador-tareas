@@ -1,9 +1,9 @@
 # administrador-tareas
 administrador-tareas
 
-Practica de javascript vanilla.
+Practica de eventos con javascript.
 
-Utilizacion de html con bootstrap.
+Utilizacion de html y css con bootstrap.
 
 Validacion.
 
