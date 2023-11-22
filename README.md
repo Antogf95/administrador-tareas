@@ -5,7 +5,7 @@ Practica de javascript vanilla.
 
 Utilizacion de html con bootstrap.
 
-Validacion en los inputs.
+Validacion.
 
 Creacion dinamica de elementos HTML mediante javascript.
 
